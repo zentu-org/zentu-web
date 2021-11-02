@@ -29,9 +29,6 @@ export default createGlobalStyle`
 
   body {
     background-color: #fefefe;
-    -webkit-font-smoothing: antialiased;
-    margin: 0;
-    padding: 0;
   }
 
   body,

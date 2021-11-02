@@ -1,11 +1,14 @@
-import Loading1 from '../components/Loading/Loading1';
+import Home from '../components/Home/Init';
+import NavBar from '../components/NavBar';
 
 // import { Container } from './styles';
 
 const pages: React.FC = () => {
 	return (
 		<>
-			<Loading1 />
+			<NavBar />
+			<Home />
+			<Home />
 		</>
 	);
 };
